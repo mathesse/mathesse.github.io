@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 每个人的金线
+title: 历史的终结与最后之人 (原作名: The End of History and the Last Man)
 category: 读书
-tags: 随感
-keywords: 阅读，金线
+tags: 书摘
+keywords: 阅读，2016
 description: 
 ---
 
