@@ -6,6 +6,7 @@ keywords: 阅读,2016
 books: 
     - title: 历史的终结与最后之人
       status: reading在读
+      tags: 书摘,政治
       author: 〔美〕弗朗西斯·福山
       publisher: 广西师范大学出版社
       language: 中文, 译文
