@@ -18,18 +18,6 @@ books:
       description: 
 ---
 
-![cover](https://img3.doubanio.com/lpic/s27713956.jpg "历史的终结与最后之人")
-
-### Info
-
-| Status | 在读 |
-|---|---|
-| Title | 历史的终结与最后之人 (原作名: The End of History and the Last Man) |
-| Author | 〔美〕弗朗西斯·福山 |
-| Publisher | 广西师范大学出版社 |
-| Language | 中文，译文 |
-| Link | [豆瓣读书](https://book.douban.com/subject/25908550/ ) |
-
 ### Intro
 
 在本书中，福山提出，有两大力量在共同推动着人类历史的前进，一个是现代自然科学的逻辑，一个是黑格尔—科耶夫所谓的“寻求承认的斗争”：前者驱使人类通过合理的经济过程满足无限扩张的欲望，后者则驱使人类寻求平等的承认。
