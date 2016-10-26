@@ -2,7 +2,7 @@
 layout: post
 title: 历史的终结与最后之人 (原作名: The End of History and the Last Man)
 category: 读书
-tags: 书摘
+tags: 随感
 keywords: 阅读，2016
 description: 
 ---
