@@ -7,7 +7,7 @@ books:
     - title: 历史的终结与最后之人
       status: reading在读
       author: 〔美〕弗朗西斯·福山
-      publisher: 上海人民出版社
+      publisher: 广西师范大学出版社
       language: 中文
       link: http://book.douban.com/subject/1770782/
       cover: http://img3.douban.com/lpic/s1727290.jpg
