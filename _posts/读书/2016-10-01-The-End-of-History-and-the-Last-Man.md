@@ -1,17 +1,17 @@
 ---
 layout: book
-title: 历史的终结与最后之人
+title: 历史的终结与最后之人（The End of History and the Last Man)
 category: 读书
-keywords: 阅读,书单,2016
+keywords: 阅读,2016
 books: 
-    - title: 机器学习
+    - title: 历史的终结与最后之人（The End of History and the Last Man)
       status: 在读
-      author: 周志华
-      publisher: 清华大学出版社
-      language: 中文
+      author: 〔美〕弗朗西斯·福山
+      publisher: 广西师范大学出版社
+      language: 中文，译文
       link: http://book.douban.com/subject/26708119/          
       cover: http://img3.douban.com/lpic/s28382844.jpg
-      description: 
+      description: 在本书中，福山提出，有两大力量在共同推动着人类历史的前进，一个是现代自然科学的逻辑，一个是黑格尔—科耶夫所谓的“寻求承认的斗争”：前者驱使人类通过合理的经济过程满足无限扩张的欲望，后者则驱使人类寻求平等的承认。随着时间的推移，这两股力量最终导致各种专制暴政倒台，推动文化各不相同的社会建立起奉行开放市场的自由民主国家。紧随而来的问题是，在“历史的终结处”，政治经济的自由平等，是否能够产生一个稳定的社会，让生活在其内的人得到“完全的满足”，抑或，“最后的人”被剥夺了征服欲的出口，不可避免地导致他们冒险一试，让历史重返混乱与流血状态？
 ---
 
 # 简介
