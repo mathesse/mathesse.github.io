@@ -1,16 +1,24 @@
 ---
 layout: book
-title: 历史的终结与最后之人（The End of History and the Last Man)
+title: 2016年阅读书单
 category: 读书
-keywords: 阅读,2016
+keywords: 阅读,书单,2016
 books: 
-    - title: 历史的终结与最后之人 (原作名: The End of History and the Last Man)
+    - title: 机器学习
       status: 在读
-      author: 〔美〕弗朗西斯·福山
-      publisher: 广西师范大学出版社
+      author: 周志华
+      publisher: 清华大学出版社
       language: 中文
-      link: https://book.douban.com/subject/25908550/          
-      cover: https://img3.doubanio.com/lpic/s27713956.jpg
+      link: http://book.douban.com/subject/26708119/          
+      cover: http://img3.douban.com/lpic/s28382844.jpg
+      description: 
+    - title: 人类简史
+      status: 在读
+      author: 尤瓦尔·赫拉利 
+      publisher: 中信出版社
+      language: 中文
+      link: http://book.douban.com/subject/25985021/          
+      cover: http://img3.douban.com/lpic/s27814883.jpg
       description: 
 ---
 
