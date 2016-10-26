@@ -15,7 +15,7 @@ books:
       linkname: 豆瓣读书
       cover: https://img3.doubanio.com/lpic/s27713956.jpg
       covername: 历史的终结与最后之人
-      description: 
+      description:
 ---
 
 ### <font color="#fcbe32"> Further Reading </font>
@@ -23,7 +23,6 @@ books:
 - [Q. and A.: Francis Fukuyama on China’s Political Development](http://sinosphere.blogs.nytimes.com/2015/05/01/q-and-a-francis-fukuyama-on-chinas-political-development/?_r=1 "NY Times")
 
 - 以上的中文版：[弗朗西斯·福山：历史终结、政治秩序与中国](http://cnpolitics.org/2015/05/francis-fukuyama/ "政见")
-
 
 ### <font color="#ff5f2e"> Info </font>
 
