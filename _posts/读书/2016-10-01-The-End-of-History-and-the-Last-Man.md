@@ -7,11 +7,14 @@ keywords: 阅读 2016
 books: 
     - title: 历史的终结与最后之人(The End of History and the Last Man)
       status: reading在读 
-      author: 
-      publisher: 
-      language: 
-      link: 
-      cover: 
+      tags: books politics 2016
+      author: 〔美〕弗朗西斯·福山 Francis Fukuyama
+      publisher: 广西师范大学出版社
+      language: 中文 译文
+      link: https://book.douban.com/subject/25908550/
+      linkname: 豆瓣读书
+      cover: https://img3.doubanio.com/lpic/s27713956.jpg
+      covername: 历史的终结与最后之人
       description: 
 
 ---
