@@ -26,19 +26,19 @@ layout: base
                   <img src="{{ book.cover }}" alt="{{ book.covername }}" class="img-thumbnail">
                 </div>
                 <br />
-                <div class="col-md-4 col-xs-12">
+                <div class="col-md-8 col-xs-12">
                   <table class="table table-bordered">
                     <tbody>
-                      <tr><td style="width:130px;" bgcolor="#fcbe32"><font color="#ff5f2e">Author作者</font></td><td>{{ book.author }}</td></tr>
-                      <tr><td bgcolor="#fcbe32"><font color="#ff5f2e">Publisher出版商</font></td><td>{{ book.publisher }}</td></tr>
-                      <tr><td bgcolor="#fcbe32"><font color="#ff5f2e">Language语言</font></td><td>{{ book.language }}</td></tr>
-                      <tr><td bgcolor="#fcbe32"><font color="#ff5f2e">Tags标签</font></td><td>{{ book.tags }}</td></tr>
+                      <tr><td style="width:130px;"><font color="#004e66">Author作者</font></td><td>{{ book.author }}</td></tr>
+                      <tr><td><font color="#004e66">Publisher出版商</font></td><td>{{ book.publisher }}</td></tr>
+                      <tr><td><font color="#004e66">Language语言</font></td><td>{{ book.language }}</td></tr>
+                      <tr><td><font color="#004e66">Tags标签</font></td><td>{{ book.tags }}</td></tr>
                       <tr>
-                        <td bgcolor="#fcbe32"><font color="#ff5f2e">Link链接</font></td><td>
+                        <td><font color="#004e66">Link链接</font></td><td>
                         <a href="{{ book.link }}" title="{{ book.link }}">{{ book.linkname }}</a>
                       </td></tr>
                       <tr>
-                        <td bgcolor="#fcbe32"><font color="#ff5f2e">Status状态</font></td>
+                        <td><font color="#004e66">Status状态</font></td>
                         <td>
                           {% if book.status == 'finished已读' %}
                             <span class="label label-success">{{ book.status }}</span>
@@ -48,7 +48,7 @@ layout: base
                             <span class="label label-default">{{ book.status }}</span>
                           {% endif %}
                         </td></tr>
-                      <tr><td bgcolor="#fcbe32"><font color="#ff5f2e">Comments评论</font></td><td>{{ book.description }}</td></tr>
+                      <tr><td><font color="#004e66">Comments评论</font></td><td>{{ book.description }}</td></tr>
                     </tbody>
                   </table>
                 </div>
