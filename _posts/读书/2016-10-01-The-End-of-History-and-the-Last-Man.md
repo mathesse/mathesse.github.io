@@ -9,8 +9,9 @@ description:
 
 ![cover](https://img3.doubanio.com/lpic/s27713956.jpg "历史的终结与最后之人")
 
+|---|---|
 | Status | 在读 |
-|---|---
+|---|---|
 | Title | 历史的终结与最后之人 (原作名: The End of History and the Last Man) |
 | Author | 〔美〕弗朗西斯·福山 |
 | Publisher | 广西师范大学出版社 |
