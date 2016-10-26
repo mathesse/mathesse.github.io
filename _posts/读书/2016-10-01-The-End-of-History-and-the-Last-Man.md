@@ -12,14 +12,6 @@ books:
       link: http://book.douban.com/subject/26708119/          
       cover: http://img3.douban.com/lpic/s28382844.jpg
       description: 
-    - title: 人类简史
-      status: 在读
-      author: 尤瓦尔·赫拉利 
-      publisher: 中信出版社
-      language: 中文
-      link: http://book.douban.com/subject/25985021/          
-      cover: http://img3.douban.com/lpic/s27814883.jpg
-      description: 
 ---
 
 # 简介
