@@ -1,21 +1,21 @@
 ---
 layout: book
-title: 历史的终结与最后之人 (The End of History and the Last Man)
+title: 历史的终结与最后之人(The End of History and the Last Man)
 category: 读书
 tags: books politics 2016
 keywords: 阅读 2016
 books: 
-    - title: 历史的终结与最后之人 (The End of History and the Last Man)
+    - title: 历史的终结与最后之人(The End of History and the Last Man)
       status: reading在读
-      tags: books politics
-      author: 〔美〕弗朗西斯·福山
+      tags: books politics 2016
+      author: 〔美〕弗朗西斯·福山 Francis Fukuyama
       publisher: 广西师范大学出版社
       language: 中文 译文
       link: https://book.douban.com/subject/25908550/
       linkname: 豆瓣读书
       cover: https://img3.doubanio.com/lpic/s27713956.jpg
       covername: 历史的终结与最后之人
-      description: 
+      description: [政见](http://sinosphere.blogs.nytimes.com/2015/05/01/q-and-a-francis-fukuyama-on-chinas-political-development/?_r=1 "Q. and A.: Francis Fukuyama on China’s Political Development")
 ---
 ### <font color="#ff5f2e"> Info </font>
 
