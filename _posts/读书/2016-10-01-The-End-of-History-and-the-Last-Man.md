@@ -11,7 +11,7 @@ books:
       language: 中文, 译文
       link: https://book.douban.com/subject/25908550/
       linkname: 豆瓣读书
-      cover: http://img3.douban.com/lpic/s1727290.jpg
+      cover: https://img3.doubanio.com/lpic/s27713956.jpg
       description: 
 ---
 
