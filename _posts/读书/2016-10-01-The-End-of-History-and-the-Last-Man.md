@@ -13,6 +13,7 @@ books:
       link: https://book.douban.com/subject/25908550/
       linkname: 豆瓣读书
       cover: https://img3.doubanio.com/lpic/s27713956.jpg
+      covername: 历史的终结与最后之人
       description: 
 ---
 
