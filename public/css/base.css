@@ -41,7 +41,7 @@ body, html {
 
 }
 
-/*左侧左侧导航栏：指针*/
+/*左侧导航栏：指针*/
 .aside1> .nav > li > a:hover {
   /*color: #fff;*/
   color: #e1eef6;
