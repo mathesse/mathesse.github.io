@@ -18,7 +18,12 @@ books:
       description: 
 ---
 
-[政见](http://sinosphere.blogs.nytimes.com/2015/05/01/q-and-a-francis-fukuyama-on-chinas-political-development/?_r=1 "Q. and A.: Francis Fukuyama on China’s Political Development")
+### <font color="#fcbe32"> Furthur Reading </font>
+
+- [Q. and A.: Francis Fukuyama on China’s Political Development](http://sinosphere.blogs.nytimes.com/2015/05/01/q-and-a-francis-fukuyama-on-chinas-political-development/?_r=1 "NY Times")
+
+- 以上的中文版：[弗朗西斯·福山：历史终结、政治秩序与中国](http://cnpolitics.org/2015/05/francis-fukuyama/ "政见")
+
 
 ### <font color="#ff5f2e"> Info </font>
 
