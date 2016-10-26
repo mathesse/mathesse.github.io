@@ -13,10 +13,12 @@ description:
 - author: 〔美〕弗朗西斯·福山
 - publisher: 广西师范大学出版社
 - language: 中文，译文
-- link: 
+- link:
+
 [豆瓣读书](https://book.douban.com/subject/25908550/ )
 
 - cover: 
+
 ![cover](https://img3.doubanio.com/lpic/s27713956.jpg "历史的终结与最后之人")
 
 - description: 
