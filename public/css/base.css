@@ -41,7 +41,7 @@ body, html {
 
 }
 
-/*左侧指针*/
+/*左侧左侧导航栏：指针*/
 .aside1> .nav > li > a:hover {
   /*color: #fff;*/
   color: #e1eef6;
@@ -65,12 +65,14 @@ body, html {
   /*border: 0px solid #fff;*/
   border: 0px solid #e1eef6;
 }
+
 .aside1_bottom {
   width: 100%;
   position: absolute;
   bottom: 0px;
   left: 0px;
 }
+
 .aside1_bottom > .table {
   margin-bottom: 0px;
 }
