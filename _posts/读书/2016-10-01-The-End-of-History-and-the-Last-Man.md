@@ -4,8 +4,8 @@ title: 历史的终结与最后之人
 category: 读书
 keywords: 阅读,2016
 books: 
-    - title: 历史的终结与最后之人 (原作名: The End of History and the Last Man)
-      status:已读
+    - title: 历史的终结与最后之人(原作名: The End of History and the Last Man)
+      status: 已读
       author: 卡勒德·胡赛尼
       publisher: 上海人民出版社
       language: 中文
