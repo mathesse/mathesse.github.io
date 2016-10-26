@@ -6,7 +6,7 @@ keywords: 阅读,2016
 books: 
     - title: 历史的终结与最后之人
       status: reading在读
-      author: 卡勒德·胡赛尼
+      author: 〔美〕弗朗西斯·福山
       publisher: 上海人民出版社
       language: 中文
       link: http://book.douban.com/subject/1770782/
