@@ -1,10 +1,17 @@
 ---
-layout: post
+layout: book
 title: 历史的终结与最后之人（The End of History and the Last Man)
 category: 读书
-tags: 书摘
-keywords: 阅读，2016
-description: 
+keywords: 阅读,2016
+books: 
+    - title: 历史的终结与最后之人 (原作名: The End of History and the Last Man)
+      status: 在读
+      author: 〔美〕弗朗西斯·福山
+      publisher: 广西师范大学出版社
+      language: 中文
+      link: https://book.douban.com/subject/25908550/          
+      cover: https://img3.doubanio.com/lpic/s27713956.jpg
+      description: 
 ---
 
 # 简介
