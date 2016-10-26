@@ -46,7 +46,7 @@ body, html {
   /*color: #fff;*/
   color: #e1eef6;
   /*background-color: #16a085;*/
-  background-color: #fcbe32;/*orange*/
+  background-color: #fcbe32;/*yellow*/
 }
 
 .aside1 > .nav-pills>li.active>a ,.nav-pills>li.active>a:hover,.nav-pills>li.active>a:focus {
@@ -106,7 +106,7 @@ body, html {
   padding-right: 30px;
   text-align: center;
   /*color: #303030;*/
-  color: #004e66;
+  color: #ff5f2e;
 }
 .aside3-content {
 /*  padding-left: 40px;
