@@ -1,18 +1,17 @@
 ---
 layout: book
-title: 历史的终结与最后之人
+title: 2010年阅读书单
 category: 读书
-keywords: 阅读,2016
+keywords: 阅读,书单,2010
 books: 
-    - title: 历史的终结与最后之人
-      status: reading在读
-      author: 〔美〕福山
-      publisher: 广西师大
-      language: 中文，译文
-      link: https://book.douban.com/subject/25908550/
-      cover: https://img3.doubanio.com/lpic/s27713956.jpg
-      description: 哈哈
-
+    - title: 追风筝的人
+      status: 已读
+      author: 卡勒德·胡赛尼
+      publisher: 上海人民出版社
+      language: 中文
+      link: http://book.douban.com/subject/1770782/
+      cover: http://img3.douban.com/lpic/s1727290.jpg
+      description: 
 ---
 
 ![cover](https://img3.doubanio.com/lpic/s27713956.jpg "历史的终结与最后之人")
