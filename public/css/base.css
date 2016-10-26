@@ -8,7 +8,7 @@ body, html {
   height: 100%;
   overflow: hidden; 
   /*background-color: #303030;*/
-  background-color: #004e66
+  background-color: #ff5f2e;
 }
 .row {
   height: 100%;
@@ -21,7 +21,7 @@ body, html {
 .aside1 {
   /*background-color: #1f2c39;*/
   /*background-color: #1abc9c;*/
-  background-color: #fcbe32;
+  background-color: #004e66;
   /*background-image: url(/public/img/bg_grid.jpg);*/
   height: 100%;
   padding-left: 0px;
@@ -44,7 +44,7 @@ body, html {
   /*color: #fff;*/
   color: #e1eef6;
   /*background-color: #16a085;*/
-  background-color: #ff5f2e
+  background-color: #fcbe32;
 }
 
 .aside1 > .nav-pills>li.active>a ,.nav-pills>li.active>a:hover,.nav-pills>li.active>a:focus {
@@ -76,7 +76,7 @@ body, html {
   /*background-image: url(/public/img/body_bg.jpg);*/
 
   /*background-color: #303030;*/
-  background-color: #004e66;
+  background-color: #ff5f2e;
   height: 100%;
   border-right: 2px solid #303030;
   overflow-y: auto;
