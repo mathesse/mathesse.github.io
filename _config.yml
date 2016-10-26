@@ -4,13 +4,13 @@ paginate: 10
 
 # 作者信息
 author:
-  name: Sian M.H.
+  name: Sian M.E.
   email: hessiatrix@gmail.com
   link: mathesse.github.io
   github: http://github.com/mathesse
 
 # 站点信息
-title: Sian M.H.'s Blog
+title: Sian M.E.'s Blog
 description: My personal blog
 url: http://mathesse.github.io
 rss_url: /pages/atom.xml
@@ -26,7 +26,7 @@ ga:
 
 # disqus 设置
 disqus:
-  shortname: sian-mh
+  shortname: sian-me
 
 # 主题设置，自动激活某个标签
 active: 读书
