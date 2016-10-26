@@ -86,7 +86,7 @@ body, html {
   /*border-right: 2px solid #303030;*/
   border-right: 2px solid #004e66;
   overflow-y: auto;
-  font-color: #e1eef6;
+  font-color: #e1eef6;/*light blue*/
   margin-top: 40px;
 }
 
@@ -94,10 +94,8 @@ body, html {
 .aside3 {
   height: 100%;
   overflow-y: auto;
-  /*background-color: #fff;*/
-  background-color: #e1eef6;/*light blue*/
+  background-color: #fff;
   overflow-x: hidden;
-
   /*background-image: url(/public/img/bg_lines1.jpg);*/
 }
 .aside3-title {
