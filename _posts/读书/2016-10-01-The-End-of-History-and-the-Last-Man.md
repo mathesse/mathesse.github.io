@@ -15,8 +15,11 @@ books:
       linkname: 豆瓣读书
       cover: https://img3.doubanio.com/lpic/s27713956.jpg
       covername: 历史的终结与最后之人
-      description: [政见](http://sinosphere.blogs.nytimes.com/2015/05/01/q-and-a-francis-fukuyama-on-chinas-political-development/?_r=1 "Q. and A.: Francis Fukuyama on China’s Political Development")
+      description: 
 ---
+
+[政见](http://sinosphere.blogs.nytimes.com/2015/05/01/q-and-a-francis-fukuyama-on-chinas-political-development/?_r=1 "Q. and A.: Francis Fukuyama on China’s Political Development")
+
 ### <font color="#ff5f2e"> Info </font>
 
 在本书中，福山提出，有两大力量在共同推动着人类历史的前进，一个是现代自然科学的逻辑，一个是黑格尔—科耶夫所谓的“寻求承认的斗争”：前者驱使人类通过合理的经济过程满足无限扩张的欲望，后者则驱使人类寻求平等的承认。
