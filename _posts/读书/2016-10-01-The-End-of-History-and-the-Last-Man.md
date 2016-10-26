@@ -5,7 +5,7 @@ category: 读书
 tags: books politics 2016
 keywords: 阅读 2016
 books: 
-    - title: 历史的终结与最后之人(The End of History and the Last Man)
+    - title: 历史的终结与最后之人
       status: reading在读
       tags: books politics 2016
       author: 〔美〕弗朗西斯·福山 Francis Fukuyama
