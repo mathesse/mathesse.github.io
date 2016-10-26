@@ -10,6 +10,7 @@ description:
 ![cover](https://img3.doubanio.com/lpic/s27713956.jpg "历史的终结与最后之人")
 
 # Info
+
 | Status | 在读 |
 |---|---|
 | Title | 历史的终结与最后之人 (原作名: The End of History and the Last Man) |
