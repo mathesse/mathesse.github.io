@@ -20,17 +20,16 @@ layout: base
         <div class="col-md-12">
           <div class="panel panel-primary">
             <div class="panel-heading">{{ book.title }}</div>
-            <div style="color:#fcbe32"></div>
             <div class="panel-body">
               <div class="row">
                 <div class="col-md-4 col-xs-12 center">
                   <img src="{{ book.cover }}" alt="{{ book.covername }}" class="img-thumbnail">
                 </div>
                 <br />
-                <div class="col-md-12 col-xs-12">
+                <div class="col-md-4 col-xs-12">
                   <table class="table table-bordered">
                     <tbody>
-                      <tr><td style="width:130px;"><font color="#ff5f2e">Author作者</font></td><td>{{ book.author }}</td></tr>
+                      <tr><td style="width:130px;" bgcolor="#fcbe32">Author作者</td><td>{{ book.author }}</td></tr>
                       <tr><td><font color="#ff5f2e">Publisher出版商</font></td><td>{{ book.publisher }}</td></tr>
                       <tr><td><font color="#ff5f2e">Language语言</font></td><td>{{ book.language }}</td></tr>
                       <tr><td><font color="#ff5f2e">Tags标签</font></td><td>{{ book.tags }}</td></tr>
