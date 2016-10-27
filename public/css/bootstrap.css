@@ -3222,26 +3222,26 @@ textarea.input-lg, select[multiple].input-lg {
 .btn-primary.disabled:focus, .btn-primary[disabled]:focus, fieldset[disabled] .btn-primary:focus,
 .btn-primary.disabled:active, .btn-primary[disabled]:active, fieldset[disabled] .btn-primary:active,
 .btn-primary.disabled.active, .btn-primary[disabled].active, fieldset[disabled] .btn-primary.active {
-    background-color: #ff5f2e/*#428bca*/;
-    border-color: #ff5f2e/*#357ebd*/
+    background-color: #fcbe32/*#428bca*/;
+    border-color: #fcbe32/*#357ebd*/
 }
 
 .btn-primary .badge {
-    color: #fcbe32/*#428bca*/;
+    color: #ff5f2e/*#428bca*/;
     background-color: #fff
 }
 
 .btn-success {
-    color: #fff;
-    background-color: #fcbe32/*#5cb85c*/;
-    border-color: #fcbe32/*#4cae4c*/
+    color: #e1eef6;
+    background-color: #ff5f2e/*#5cb85c*/;
+    border-color: #ff5f2e/*#4cae4c*/
 }
 
 .btn-success:hover, .btn-success:focus, .btn-success:active, .btn-success.active,
 .open>.dropdown-toggle.btn-success {
-    color: #fff;
-    background-color: #ff5f2e/*#449d44*/;
-    border-color: #ff5f2e/*#398439*/
+    color: #e1eef6;
+    background-color: #fcbe32/*#449d44*/;
+    border-color: #fcbe32/*#398439*/
 }
 
 .btn-success:active, .btn-success.active, .open>.dropdown-toggle.btn-success {
@@ -3258,7 +3258,7 @@ textarea.input-lg, select[multiple].input-lg {
 }
 
 .btn-success .badge {
-    color: #fcbe32/*#5cb85c*/;
+    color: #ff5f2e/*#5cb85c*/;
     background-color: #fff
 }
 
