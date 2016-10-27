@@ -11,7 +11,7 @@ description:
 
 Two ways to import and manage kindle clippings.
 
-## <font color="#fcbe32">1. Use a simple python program </font>
+# <font color="#fcbe32">1. Use a simple python program </font>
 
 ```python
 import os
@@ -33,7 +33,7 @@ while True:
  
 Source: [Kindle标注的重点和笔记可以导出吗？](https://www.zhihu.com/question/23031778# "zhihu.com")
 
-## <font color="#fcbe32">2. KindleMate-标注笔记及生词本管理器: import clippings to local folder</font>
+# <font color="#fcbe32">2. KindleMate-标注笔记及生词本管理器: import clippings to local folder</font>
 
 - Kindle Mate is a software to import clippings to local folder. 
 
@@ -43,11 +43,11 @@ Source: [Kindle标注的重点和笔记可以导出吗？](https://www.zhihu.com
 
 	- pan.baidu download: [Kindle Mate for Mac (wineskin)](https://pan.baidu.com/s/1i3Hocol "pan.baidu")
 
-- <font color="red">Problem: Kindle Mate does not support Chinese characters. </font>      
+## <font color="#fcbe32">2.1 Problem: Kindle Mate does not support Chinese characters. </font>      
 
-- <font color="red">Solution: install Chinese (zh-CN/zh-TW) fonts for Wineskin. </font>
+- Solution: install Chinese (zh-CN/zh-TW) fonts for Wineskin. 
 
-### Wineskin
+### 2.1.1 Wineskin
 
 - Wineskin is a tool used to make ports of Windows software to Mac OS X.  The ports are in the form of normal Mac application bundle wrappers.  It works like a wrapper around the Windows software, and you can share just the wrappers if you choose.
 
@@ -94,11 +94,11 @@ Source: [Kindle标注的重点和笔记可以导出吗？](https://www.zhihu.com
 
 ![](/public/img/posts/20161027/kindle-mate-8.png)
 
-### Use Kindle Mate to export clippings
+## <font color="#fcbe32">2.2 Use Kindle Mate to export clippings</font>
 
 ![](/public/img/posts/20161027/kindle-mate-9.png)
 
-## <font color="#fcbe32">[References]</font>
+# <font color="#fcbe32">3. References</font>
 
 1. [Kindle Mate 1.35 for Mac测试](https://www.douban.com/group/topic/89966767/ "Douban.com")
 
