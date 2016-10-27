@@ -3199,16 +3199,18 @@ textarea.input-lg, select[multiple].input-lg {
 }
 
 .btn-primary {
-    color: #fff;
-    background-color: #16a085;
-    border-color: #16a090;
+    color: #e1eef6;
+    /*background-color: #16a085;*/
+    background-color: #fcbe32;
+    /*border-color: #16a090;*/
+    border-color: #fcbe32;
 }
 
 .btn-primary:hover, .btn-primary:focus, .btn-primary:active, .btn-primary.active,
 .open>.dropdown-toggle.btn-primary {
     color: #fff;
-    background-color: #1abc9c;
-    border-color: #1abc9c;
+    background-color: #ff5f2e /*#1abc9c*/;
+    border-color: #ff5f2e /*#1abc9c*/;
 }
 
 .btn-primary:active, .btn-primary.active, .open>.dropdown-toggle.btn-primary {
