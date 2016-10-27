@@ -3201,16 +3201,16 @@ textarea.input-lg, select[multiple].input-lg {
 .btn-primary {
     color: #e1eef6;
     /*background-color: #16a085;*/
-    background-color: #fcbe32;
+    background-color: #ff5f2e;
     /*border-color: #16a090;*/
-    border-color: #fcbe32;
+    border-color: #ff5f2e;
 }
 
 .btn-primary:hover, .btn-primary:focus, .btn-primary:active, .btn-primary.active,
 .open>.dropdown-toggle.btn-primary {
-    color: #fff;
-    background-color: #ff5f2e/*#1abc9c*/;
-    border-color: #ff5f2e/*#1abc9c*/;
+    color: #e1eef6;
+    background-color: #fcbe32/*#1abc9c*/;
+    border-color: #fcbe32/*#1abc9c*/;
 }
 
 .btn-primary:active, .btn-primary.active, .open>.dropdown-toggle.btn-primary {
