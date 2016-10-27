@@ -13,7 +13,7 @@ Two ways to import and manage kindle clippings.
 
 ## <font color="#fcbe32">1. Use a simple python program </font>
 
-```Python
+```python
 import os
 note_path='/Volumes/Kindle/documents/My Clippings.txt'
 f=open(note_path,'r+')
@@ -29,7 +29,7 @@ while True:
     book_note=open('%s%s.txt'%(digest_path,onenote[0]),'a+')
     book_note.write(onenote[3]+'\n')
     book_note.close() 
- ```
+```
  
 Source: [Kindle标注的重点和笔记可以导出吗？](https://www.zhihu.com/question/23031778# "zhihu.com")
 
@@ -106,8 +106,8 @@ Source: [Kindle标注的重点和笔记可以导出吗？](https://www.zhihu.com
 
 3. Fonts lib for Chinese
 
-	- [](http://www.fontke.com)
-	- [](http://www.touwenzi.com)
-	- [](http://wiki.ubuntu.org.cn/免费中文字体)
+	- [http://www.fontke.com](http://www.fontke.com)
+	- [http://www.touwenzi.com](http://www.touwenzi.com)
+	- [http://wiki.ubuntu.org.cn/免费中文字体](http://wiki.ubuntu.org.cn/免费中文字体)
 
 
