@@ -13,7 +13,7 @@ Two ways to import and manage kindle clippings.
 
 ## <font color="#fcbe32">1. Use a simple python program </font>
 
-```
+```Python
 import os
 note_path='/Volumes/Kindle/documents/My Clippings.txt'
 f=open(note_path,'r+')
@@ -31,21 +31,21 @@ while True:
     book_note.close() 
  ```
  
-Source: https://www.zhihu.com/question/23031778#
+Source: [Kindle标注的重点和笔记可以导出吗？](https://www.zhihu.com/question/23031778# "zhihu.com")
 
 ## <font color="#fcbe32">2. KindleMate-标注笔记及生词本管理器: import clippings to local folder</font>
 
 - Kindle Mate is a software to import clippings to local folder. 
 
-	- download page: http://kmate.me
+	- download page: [Kindle Mate](http://kmate.me "download")
 
 - Kindle Mate currently (up to 2016-10-27) has a wrapped version (winskine) for Mac.
 
-	- pan.baidu download: https://pan.baidu.com/s/1i3Hocol
+	- pan.baidu download: [Kindle Mate for Mac (wineskin)](https://pan.baidu.com/s/1i3Hocol "pan.baidu")
 
 <font color="red">Problem: Kindle Mate does not support Chinese characters. </font>
 
-<font color="red">Solution: install Chinese (zh-CN/zh-TW) fonts for Winskin. </font>
+<font color="red">Solution: install Chinese (zh-CN/zh-TW) fonts for Wineskin. </font>
 
 ### Wineskin
 
@@ -53,7 +53,7 @@ Source: https://www.zhihu.com/question/23031778#
 
 ### Install Chinese fonts for Wineskin
 
-##### 1. prepare Font file
+#### 1. prepare Font file
 
 - open the wrapped package->Show packages; 
 
@@ -63,32 +63,34 @@ Source: https://www.zhihu.com/question/23031778#
 
 ![](/public/img/posts/20161027/kindle-mate-6.png)
 	
-##### 2. open the wrapped package: Show packages -> Wineskin.app -> Advanced -> tools -> Registry Editor
+#### 2. open the wrapped package: Show packages -> Wineskin.app -> Advanced -> tools -> Registry Editor
 
 ![](/public/img/posts/20161027/kindle-mate-2.png)
 
 ![](/public/img/posts/20161027/kindle-mate-3.png)
 
-##### 3. Modify MS Shell Dlg and MS Shell DLg 2
+#### 3. Modify MS Shell Dlg and MS Shell DLg 2
 
 - find HKEY_LOCALE_MACHINE\Software\Microsoft\Windows NT\CurrentVersion\FontSubstitutes
+
 - now you will see MS Shell Dlg and MS Shell Dlg 2 at the right side.
 
 ![](/public/img/posts/20161027/kindle-mate-7.png)
 
 - just change the value for these two items. The value matches the font name which is copied to c:\windows\fonts of Wineskin app. Careful that the font name is not the font's file name, open the font and you can see the name from the font manager. You can copy any fonts here for your own use (I dragged the fonts from Windows). In zh_CN it will be Simsun (simsun.ttc). 
 
-##### 4. set custom commands
+#### 4. set custom commands
 
 - set Custom Commands (Show packages -> Wineskin.app -> Advanced -> Configuration) to "export LANG=zh_CN.UTF-8"(this is for Simplified Chinese, without quotes and Case Sensitive)
 
-##### 5. run cjkfonts
+#### 5. run cjkfonts
 - search and run cjkfonts at Advanced -> Tools -> Winetricks. 
 
 ![](/public/img/posts/20161027/kindle-mate-4.png)
+
 ![](/public/img/posts/20161027/kindle-mate-5.png)
 
-##### 6. Test run, and the application will launch in Chinese.
+#### 6. Test run, and the application will launch in Chinese.
 
 ![](/public/img/posts/20161027/kindle-mate-8.png)
 
@@ -104,8 +106,8 @@ Source: https://www.zhihu.com/question/23031778#
 
 3. Fonts lib for Chinese
 
-	- http://www.fontke.com
-	- http://www.touwenzi.com
-	- http://wiki.ubuntu.org.cn/免费中文字体
+	- [](http://www.fontke.com)
+	- [](http://www.touwenzi.com)
+	- [](http://wiki.ubuntu.org.cn/免费中文字体)
 
 
