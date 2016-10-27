@@ -57,24 +57,24 @@ Source: https://www.zhihu.com/question/23031778#
 
 - open the wrapped package->Show packages; 
 
-![](/public/img/kindle/kindle-mate-1.png)
+![](/public/img/posts/20161027/kindle-mate-1.png)
 
 - copy the Fonts file (.tcc) to drive_c/windows/Fonts
 
-![](/public/img/kindle/kindle-mate-6.png)
+![](/public/img/posts/20161027/kindle-mate-6.png)
 	
 ##### 2. open the wrapped package: Show packages -> Wineskin.app -> Advanced -> tools -> Registry Editor
 
-![](/public/img/kindle/kindle-mate-2.png)
+![](/public/img/posts/20161027/kindle-mate-2.png)
 
-![](/public/img/kindle/kindle-mate-3.png)
+![](/public/img/posts/20161027/kindle-mate-3.png)
 
 ##### 3. Modify MS Shell Dlg and MS Shell DLg 2
 
 - find HKEY_LOCALE_MACHINE\Software\Microsoft\Windows NT\CurrentVersion\FontSubstitutes
 - now you will see MS Shell Dlg and MS Shell Dlg 2 at the right side.
 
-![](/public/img/kindle/kindle-mate-7.png)
+![](/public/img/posts/20161027/kindle-mate-7.png)
 
 - just change the value for these two items. The value matches the font name which is copied to c:\windows\fonts of Wineskin app. Careful that the font name is not the font's file name, open the font and you can see the name from the font manager. You can copy any fonts here for your own use (I dragged the fonts from Windows). In zh_CN it will be Simsun (simsun.ttc). 
 
@@ -85,16 +85,16 @@ Source: https://www.zhihu.com/question/23031778#
 ##### 5. run cjkfonts
 - search and run cjkfonts at Advanced -> Tools -> Winetricks. 
 
-![](/public/img/kindle/kindle-mate-4.png)
-![](/public/img/kindle/kindle-mate-5.png)
+![](/public/img/posts/20161027/kindle-mate-4.png)
+![](/public/img/posts/20161027/kindle-mate-5.png)
 
 ##### 6. Test run, and the application will launch in Chinese.
 
-![](/public/img/kindle/kindle-mate-8.png)
+![](/public/img/posts/20161027/kindle-mate-8.png)
 
 ### Use Kindle Mate to export clippings
 
-![](/public/img/kindle/kindle-mate-9.png)
+![](/public/img/posts/20161027/kindle-mate-9.png)
 
 ## <font color="#fcbe32">[References]</font>
 
