@@ -43,9 +43,9 @@ Source: [Kindle标注的重点和笔记可以导出吗？](https://www.zhihu.com
 
 	- pan.baidu download: [Kindle Mate for Mac (wineskin)](https://pan.baidu.com/s/1i3Hocol "pan.baidu")
 
-<font color="red">Problem: Kindle Mate does not support Chinese characters. </font>      
+- <font color="red">Problem: Kindle Mate does not support Chinese characters. </font>      
 
-<font color="red">Solution: install Chinese (zh-CN/zh-TW) fonts for Wineskin. </font>
+- <font color="red">Solution: install Chinese (zh-CN/zh-TW) fonts for Wineskin. </font>
 
 ### Wineskin
 
