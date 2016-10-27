@@ -33,7 +33,7 @@ body, html {
 .aside1 > .nav > li > a {
   padding-left: 0px;
   padding-right: 0px;
-  border-radius: 15px;
+  border-radius: 10px;
   /*color: #fff;*/
   color: #e1eef6; /*white*/
   font-size: 15px;
@@ -63,7 +63,7 @@ body, html {
   width: 56px;
   /*height: 90px;*/
   /*border: 0px solid #fff;*/
-  border: 15px solid #e1eef6;
+  border: 10px solid #e1eef6;
 }
 
 .aside1_bottom {
