@@ -2,12 +2,12 @@
 layout: book
 title: 上学记
 category: 读书
-tags: books 2015 中文
+tags: books 2015 中文 回忆录
 keywords: 阅读 2015
 books: 
     - title: 上学记
       status: finished已读 
-      tags: books 2016 中文
+      tags: books 2016 中文 回忆录
       author: 何兆武 口述 / 文靖 撰写 
       publisher: 生活·读书·新知三联书店
       language: 中文
