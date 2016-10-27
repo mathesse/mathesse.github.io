@@ -5333,9 +5333,9 @@ a.thumbnail:hover, a.thumbnail:focus, a.thumbnail.active {
     display: block;
     padding: 10px 15px;
     margin-bottom: -1px;
-    color: #fff;
-    background-color: #1abc9c;
-    border: 0px solid #1abc9c;/*115449;*/
+    color: #e1eef6/*#fff*/;
+    background-color: #ff5f2e/*#1abc9c*/;
+    border: 0px solid #ff5f2e/*#1abc9c;115449;*/
     border-left: 0px;
     border-right: 0px;
     /*border: 0px solid #ddd;*/
@@ -5344,8 +5344,8 @@ a.thumbnail:hover, a.thumbnail:focus, a.thumbnail.active {
 
 a.list-group-item-lay:hover, a.list-group-item-lay:focus {
     text-decoration: none;
-    color: #fff;
-    background-color: #16a085;
+    color: #e1eef6/*#fff*/;
+    background-color: #fcbe32/*#16a085*/;
 }
 
 .list-group-item-lay:first-child {
