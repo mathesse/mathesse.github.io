@@ -29,11 +29,11 @@ disqus:
   shortname: mathesse
 
 # 主题设置，自动激活某个标签
-active: 读书
+active: 枕书
 
 # 首页除了最新文章外显示分类
 cates:
-  - 阅读
+  - 枕书
 
 # 中文本地化
 locals:
