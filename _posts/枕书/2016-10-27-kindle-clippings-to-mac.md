@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Import and Manage Kindle Clippings to Mac OSx
-category: 读书
+category: 枕书
 tags: Kindle
 keywords: 阅读 Kindle
 description: 
