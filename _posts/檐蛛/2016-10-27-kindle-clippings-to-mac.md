@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Import and Manage Kindle Clippings to Mac OSx in .txt Format
-category: 枕书
+category: 檐蛛
 tags: Kindle
 keywords: 阅读 Kindle
 description: 
@@ -104,7 +104,9 @@ Source: [Kindle标注的重点和笔记可以导出吗？](https://www.zhihu.com
 
 2. [Wineskin Newbie - Need help running Asian EXE](http://portingteam.com/topic/5094-wineskin-newbie-need-help-running-asian-exe/ "portingteam.com")
 
-3. Fonts lib for Chinese
+3. If you would like to <b>replace the icon</b> while using wineskin, you need to generate a ICNS (reference image). One simple but elegant app recommended for Mac OSX: [<b>Img2icnsapp</b>, free download on Mac App Store](http://www.img2icnsapp.com "http://www.img2icnsapp.com")
+
+4. Fonts lib for Chinese
 
 	- [http://www.fontke.com](http://www.fontke.com)
 	- [http://www.touwenzi.com](http://www.touwenzi.com)
