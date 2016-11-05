@@ -104,7 +104,9 @@ Source: [Kindle标注的重点和笔记可以导出吗？](https://www.zhihu.com
 
 2. [Wineskin Newbie - Need help running Asian EXE](http://portingteam.com/topic/5094-wineskin-newbie-need-help-running-asian-exe/ "portingteam.com")
 
-3. If you would like to <b>replace the icon</b> while using wineskin, you need to generate a ICNS (reference image). One simple but elegant app recommended for Mac OSX: [<b>Img2icnsapp</b>, free download on Mac App Store](http://www.img2icnsapp.com "http://www.img2icnsapp.com")
+3. Create Icon: if you would like to <b>replace the icon</b> while using wineskin, you need to generate a ICNS (reference image). 
+	- One simple but elegant app recommended for Mac OSX: [<b>Img2icnsapp</b>, free download on Mac App Store](http://www.img2icnsapp.com "http://www.img2icnsapp.com") (update in Nov 4: although it's free to download, you need to PAY TO EXPORT...)
+	- [iConvert Icons](https://iconverticons.com/online/ "https://iconverticons.com/online/")  is an online icon converter to convert PNG to ICO, ICNS, and app icons for Windows, Mac OS X, Linux, iOS, and Android.
 
 4. Fonts lib for Chinese
 
