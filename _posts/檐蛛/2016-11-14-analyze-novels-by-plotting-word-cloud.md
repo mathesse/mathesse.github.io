@@ -7,8 +7,9 @@ keywords: python
 description: 
 
 ---
-# <font color="#ff5f2e">那些年看过的小说都在讲什么？！</font>
-# <font color="#fcbe32"> —— 用python进行keyword extraction(关键词提取)以及word cloud(词云)绘制</font>
+# <font color="#ff5f2e"><center>那些年看过的小说都在讲什么？！</center></font>
+
+# <font color="#fcbe32"><center> —— 用python进行keyword extraction(关键词提取)以及word cloud(词云)绘制</center></font>
 
 ## <font color="#fcbe32">0. Keywords</font>
 1. Segmentation分词, keyword extraction关键词提取 - jieba结巴
