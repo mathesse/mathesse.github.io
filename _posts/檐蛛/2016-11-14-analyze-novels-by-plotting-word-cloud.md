@@ -9,7 +9,7 @@ description:
 ---
 # <font color="#ff5f2e"><center>那些年看过的小说都在讲什么？！</center></font>
 
-# <font color="#fcbe32"><center> —— 用python进行keyword extraction(关键词提取)以及word cloud(词云)绘制</center></font>
+##  <font color="#fcbe32"><center> —— 用python进行keyword extraction(关键词提取)以及word cloud(词云)绘制</center></font>
 
 ## <font color="#fcbe32">0. Keywords</font>
 1. Segmentation分词, keyword extraction关键词提取 - `jieba结巴`
@@ -23,15 +23,15 @@ description:
 pip install jieba
 ```
 - Algorithm
-	- Based on a prefix dictionary structure to achieve efficient word graph scanning. Build a directed acyclic graph (DAG) for all possible word combinations.基于前缀词典实现高效的词图扫描，生成句子中汉字所有可能成词情况所构成的有向无环图 (DAG)
-	- Use dynamic programming to find the most probable combination based on the word frequency.采用了动态规划查找最大概率路径, 找出基于词频的最大切分组合
-	- For unknown words, a HMM-based model is used with the Viterbi algorithm.对于未登录词，采用了基于汉字成词能力的 HMM 模型，使用了 Viterbi 算法
+	- Based on a `prefix dictionary structure` to achieve efficient word graph scanning. Build a directed acyclic graph (DAG) for all possible word combinations.基于前缀词典实现高效的词图扫描，生成句子中汉字所有可能成词情况所构成的有向无环图 (DAG)
+	- Use `dynamic programming` to find the most probable combination based on the word frequency.采用了动态规划查找最大概率路径, 找出基于词频的最大切分组合
+	- For unknown words, a `HMM`-based model is used with the `Viterbi` algorithm.对于未登录词，采用了基于汉字成词能力的 HMM 模型，使用了 Viterbi 算法
 	
 ### <font color="#fcbe32">1.1 Segmentation</font>
 
 以海子的[《祖国（以梦为马）》, or *Motherland, or Dream as a Horse* in English](http://latentdimensions.tumblr.com/post/78739040462/hai-zi-motherland-or-dream-as-a-horse "Hai Zi - Motherland, or Dream as a Horse * 《祖国，或以梦为马》")为例：
 
-```
+```python
 #encoding=utf-8
 import jieba
 
@@ -52,7 +52,7 @@ output：
 
 - [extract_tags_with_weight.py]|(/public/codes/20161114/extract_tags_with_weight.py)
 
-```
+```python
 import sys
 sys.path.append('../')
 
@@ -114,7 +114,7 @@ Can never get tired of its Chorus——
 > 于是你不停散落 我不停拾获
 /我们在遥远的路上 白天黑夜为彼此是艳火
 /如果你在前方回头 而我亦回头
-/我们就错过*
+/我们就错过
 
 
 ~~~
@@ -159,6 +159,7 @@ pip install wordcloud
 ```
 
 ## <font color="#fcbe32">3. Examples</font>
+
 ### <font color="#fcbe32">3.1 My Python Code</font>
 
 - Use `MATPLOTLIB` and `WORDCLOUD` to plot figures
@@ -176,8 +177,11 @@ pip install wordcloud
 	```
 	detect = chardet.detect(content)
 	```
-- [extract_tags_with_weight_v2.py]|(/public/codes/20161114/extract_tags_with_weight_v2.py)	
-```
+	
+- [extract_tags_with_weight_v2.py]|(/public/codes/20161114/extract_tags_with_weight_v2.py)
+
+	
+```python
 # or !/usr/bin/env python
 # or -*- coding: utf-8 -*- 
 
@@ -326,11 +330,11 @@ python extract_tags_with_weight_v2.py -i 越女剑.txt -o yuenvjian.txt -m yuenv
 
 - white background
 
-![](/public/img/posts/20161114/yuenvjian-cloud-2.png)
+![](/public/img/posts/20161114/helihuating-cloud-2.png)
 
 - black background
 
-![](/public/img/posts/20161114/yuenvjian-cloud-1.png)
+![](/public/img/posts/20161114/helihuating-cloud-1.png)
 
 
 ### <font color="#fcbe32">3.4 Example 3: </font>[Scarlet Heart, or Startling by Each Step by Tong Hua 桐华《步步惊心》](https://en.wikipedia.org/wiki/Scarlet_Heart “wikipedia page”)
