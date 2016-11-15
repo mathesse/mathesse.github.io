@@ -12,8 +12,8 @@ description:
 # <font color="#fcbe32"><center> —— 用python进行keyword extraction(关键词提取)以及word cloud(词云)绘制</center></font>
 
 ## <font color="#fcbe32">0. Keywords</font>
-1. Segmentation分词, keyword extraction关键词提取 - jieba结巴
-2. display - wordcloud
+1. Segmentation分词, keyword extraction关键词提取 - `jieba结巴`
+2. display - `wordcloud`
 
 ## <font color="#fcbe32">1. Segmentation and Keyword Extraction - Jieba结巴</font>
 - "Jieba" (Chinese for "to stutter") Chinese text segmentation: built to be the best Python Chinese word segmentation module.“结巴”中文分词：做最好的 Python 中文分词组件。
@@ -161,9 +161,9 @@ pip install wordcloud
 ## <font color="#fcbe32">3. Examples</font>
 ### <font color="#fcbe32">3.1 My Python Code</font>
 
-- Use **MATPLOTLIB** and **WORDCLOUD** to plot figures
+- Use `MATPLOTLIB` and `WORDCLOUD` to plot figures
 
-- ImageColorGenerator in WordCloud can generate figures based on specific pictures
+- `ImageColorGenerator` in WordCloud can generate figures based on specific pictures
 
 - Plan in future:
 	- add own stopwords; and 
@@ -172,7 +172,7 @@ pip install wordcloud
 -  *ATTENTION!* -- decode and encode
 	- Many Chinese files are encoded with GB2312
 	- However Python recognize characters in UTF-8
-	- **CHARDET** can detect coding type of your inputs: 
+	- `CHARDET` can detect coding type of your inputs: 
 	```
 	detect = chardet.detect(content)
 	```
