@@ -50,8 +50,6 @@ output：
 
 ### <font color="#fcbe32">1.2 Keyword Extraction</font>
 
-- [extract_tags_with_weight.py]|(/public/codes/20161114/extract_tags_with_weight.py)
-
 ```python
 import sys
 sys.path.append('../')
@@ -177,9 +175,6 @@ pip install wordcloud
 	```
 	detect = chardet.detect(content)
 	```
-	
-- [extract_tags_with_weight_v2.py]|(/public/codes/20161114/extract_tags_with_weight_v2.py)
-
 	
 ```python
 # or !/usr/bin/env python
