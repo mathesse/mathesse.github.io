@@ -11,8 +11,12 @@ description:
 
 
 ```
-Tibet: A History，作者 Sam van Schaik。
+Tibet: A History，Sam van Schaik.
+Yale University Press，2013.
 
+```
+
+```
 对作者的观点态度持保留态度，这是不错的一本introductory book。
 
 以下是自己汉化的版本，但实在称不上翻译，就当做读书笔记贴出来。
