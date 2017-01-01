@@ -1,9 +1,9 @@
 ---
 layout: post
-title: Notes
-category: 檐蛛
-tags: self-study
-keywords: 有趣
+title: SNotes on Tibet: A Brief History
+category: 枕书
+tags: tibet
+keywords: tibet
 description: 
 
 ---
