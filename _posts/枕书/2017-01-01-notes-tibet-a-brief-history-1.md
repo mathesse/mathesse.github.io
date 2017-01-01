@@ -1,10 +1,10 @@
 ---
 layout: post
-title: 读书笔记 | Tibet: A Brief History (1)
+title: Notes I on Tibet: A Brief History
 category: 枕书
 tags: tibet
 keywords: tibet
-description:
+description: 
 
 ---
 

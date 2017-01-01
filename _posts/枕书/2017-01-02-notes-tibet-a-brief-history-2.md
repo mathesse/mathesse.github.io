@@ -1,9 +1,9 @@
 ---
 layout: post
-title: Seriously
-category: 檐蛛
-tags: python
-keywords: python
+title: Notes II on Tibet: A Brief History
+category: 枕书
+tags: tibet
+keywords: tibet
 description: 
 
 ---
