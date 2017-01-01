@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Notes I on Tibet: A Brief History
-category: 枕书
+category: Tibet
 tags: tibet history notes
 keywords: tibet
 description:
