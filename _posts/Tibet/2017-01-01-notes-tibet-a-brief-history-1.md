@@ -1,10 +1,10 @@
 ---
 layout: post
-title: Notes (1) on Tibet: A Brief History
+title: Notes I on Tibet: A Brief History
 category: Tibet
 tags: tibet history notes
 keywords: notes
-description: 
+description:
 
 ---
 # <font color="#ff5f2e"><center>读书笔记 | Tibet: A Brief History (1)</center></font>
@@ -78,4 +78,3 @@ description:
 [11]松赞属于悉勃野部。
 [12]不留尸身在人间。
 [13]即娘若香布城的首领洛昂木达孜，简称洛昂木或罗昂。
-
