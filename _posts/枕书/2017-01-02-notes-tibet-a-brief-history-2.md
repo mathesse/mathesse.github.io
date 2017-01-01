@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Notes I on Tibet: A Brief History
+title: Notes I on Tibet A Brief History
 category: 檐蛛
 tags: self-study
 keywords: 有趣
