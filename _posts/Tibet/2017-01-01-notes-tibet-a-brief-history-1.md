@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Notes on Tibet: A Brief History (1)
+title: Notes (1) on Tibet: A Brief History
 category: Tibet
 tags: tibet history notes
 keywords: notes
@@ -8,7 +8,6 @@ description:
 
 ---
 # <font color="#ff5f2e"><center>读书笔记 | Tibet: A Brief History (1)</center></font>
-
 
 <center> Tibet: A History. Sam van Schaik.</center>
 
@@ -19,7 +18,6 @@ description:
 > 以下是自己汉化的版本，但实在称不上翻译，就当做读书笔记贴出来。
 
 > 希望17年能整理完这一本书（拖了快2年了啊）。
-
 
 ## <font color="#ff5f2e">第一章 西藏出现，600-700</font>
 
