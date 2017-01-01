@@ -1,13 +1,13 @@
 ---
 layout: post
-title: Notes I on Tibet: A Brief History
+title: Notes I on Tibet A Brief History
 category: 枕书
-tags: tibet
+tags: tibet asia history notes
 keywords: tibet
 description: 
 
 ---
-
+ 
 <center> Tibet: A History. Sam van Schaik.</center>
 
 <center> Yale University Press，2013.</center>
