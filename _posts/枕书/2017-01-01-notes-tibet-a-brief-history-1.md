@@ -1,13 +1,12 @@
 ---
 layout: post
-title: Notes I on Tibet: A Brief History
+title: 读书笔记 | Tibet: A Brief History (1)
 category: 枕书
-tags: tibet history notes
+tags: tibet
 keywords: tibet
 description:
----
 
-# <font color="#ff5f2e"><center>读书笔记 | Tibet: A Brief History (1)</center></font>
+---
 
 <center> Tibet: A History. Sam van Schaik.</center>
 
