@@ -2,8 +2,8 @@
 layout: post
 title: Notes II on Tibet A History
 category: BOOKS
-tags: tibet asia history notes
-keywords: tibet
+tags: tibet asia history
+keywords: BOOKS
 description: 
 
 ---

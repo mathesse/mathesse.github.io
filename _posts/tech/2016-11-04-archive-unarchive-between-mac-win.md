@@ -2,8 +2,8 @@
 layout: post
 title: Archiver and Unarchiver used on Mac
 category: TECH
-tags: self-study
-keywords: 有趣
+tags: mac 
+keywords: TECH
 description: 
 
 ---
