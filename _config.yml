@@ -36,9 +36,9 @@ active: BOOKS
 
 # 首页除了最新文章外显示分类
 cates:
-  - BOOKS
+  - SET
 
-# 中文本地化
+# 中文本地化?
 locals:
   tags: TAGS
   about: ABOUT
