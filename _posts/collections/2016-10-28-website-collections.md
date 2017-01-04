@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Website Collections
-category: 檐蛛
+category: COLLECTIONS
 tags: self-study
 keywords: 有趣
 description: 
