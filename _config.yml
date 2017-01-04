@@ -39,8 +39,8 @@ cates:
   - BOOKS
 
 # 中文本地化
-#locals:
-#  tags: TAGS标签
-#  about: ABOUT关于
-#  newest: NEWEST最新
-#  archive: ARCHIVE归档
+locals:
+  tags: TAGS
+  about: ABOUT
+  newest: NEWEST
+  archive: ARCHIVE
