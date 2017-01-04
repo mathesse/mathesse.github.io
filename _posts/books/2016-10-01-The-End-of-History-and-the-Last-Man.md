@@ -1,7 +1,7 @@
 ---
 layout: book
 title: 历史的终结与最后之人(The End of History and the Last Man)
-category: 枕书
+category: books
 tags: books politics 2016
 keywords: 阅读 2016
 books: 

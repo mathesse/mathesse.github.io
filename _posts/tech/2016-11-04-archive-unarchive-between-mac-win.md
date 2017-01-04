@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Archiver and Unarchiver used on Mac
-category: 檐蛛
+category: tech
 tags: self-study
 keywords: 有趣
 description: 

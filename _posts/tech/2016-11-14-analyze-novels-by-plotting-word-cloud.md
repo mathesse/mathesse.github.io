@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Seriously, what are the Novels talking about? 
-category: 檐蛛
+category: tech
 tags: python segmentation keyword wordcloud
 keywords: python
 description: 
