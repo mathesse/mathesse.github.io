@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Import and Manage Kindle Clippings to Mac OSx in .txt Format
-category: tech
+category: TECH
 tags: Kindle
 keywords: 阅读 Kindle
 description: 

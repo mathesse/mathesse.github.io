@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Seriously, what are the Novels talking about? 
-category: tech
+category: TECH
 tags: python segmentation keyword wordcloud
 keywords: python
 description: 

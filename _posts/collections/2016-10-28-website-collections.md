@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Website Collections
-category: COLLECTIONS
+category: SET
 tags: self-study
 keywords: 有趣
 description: 

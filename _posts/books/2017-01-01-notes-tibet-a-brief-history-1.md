@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Notes I on Tibet A History
-category: books
+category: BOOKS
 tags: tibet asia history notes
 keywords: tibet
 description: 
