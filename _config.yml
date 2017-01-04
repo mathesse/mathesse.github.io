@@ -4,13 +4,13 @@ paginate: 10
 
 # 作者信息
 author:
-  name: Sian M.E.
+  name: Sian Song
   email: hessiatrix@gmail.com
   link: mathesse.github.io
   github: http://github.com/mathesse
 
 # 站点信息
-title: Sian M.E.
+title: Sian Song
 description: My personal blog
 url: http://mathesse.github.io
 rss_url: /pages/atom.xml
@@ -29,15 +29,15 @@ disqus:
   shortname: mathesse
 
 # 主题设置，自动激活某个标签
-active: 枕书
+active: BOOKS枕书
 
 # 首页除了最新文章外显示分类
 cates:
-  - 枕书
+  - BOOKS枕书
 
 # 中文本地化
 locals:
-  tags: 标签
-  about: 关于
-  newest: 最新文章
-  archive: 归档
+  tags: TAGS标签
+  about: ABOUT关于
+  newest: NEWEST最新
+  archive: ARCHIVE归档
