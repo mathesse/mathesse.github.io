@@ -13,7 +13,7 @@ titlename: Blog
       {% for post in paginator.posts %}
         <a  href='{{ post.url }}' class="list-group-item pjaxlink clearfix">
           {{post.title}}
-          <span class="badge">{{ post.date | date:"%Y/%m/%d/" }}</span>
+          <span class="badge">{{ post.date | date:"%Y/%m/%d" }}</span>
         </a>
       {% endfor %}
     </div>
