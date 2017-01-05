@@ -59,6 +59,7 @@ description:
 
 [3] Kashgar, “玉”。太宗后AD 675，唐设立疏勒都督府，隶属安西都护府，安西四镇（Four Garrisons of Anxi）其余三镇为龟兹（Kucha，库车）、毗沙（Khotan, or Hotan，于阗，今和田）和焉耆（Karasahr，Yen-Ch'i）。
 
-<center>![安西四镇](https://c2.staticflickr.com/4/3609/5814830831_3d4ff58aab.jpg)</center>
+
+![安西四镇](https://c2.staticflickr.com/4/3609/5814830831_3d4ff58aab.jpg)
 
 [4] 220AD，曹丕篡汉。
