@@ -1,3 +1,12 @@
+---
+layout: post
+title: Notes III on Tibet A History
+category: BOOKS
+tags: tibet asia history
+keywords: BOOKS
+description: 
+
+---
 <center> Tibet: A History. Sam van Schaik.</center>
 
 <center> Yale University Press，2013.</center>
