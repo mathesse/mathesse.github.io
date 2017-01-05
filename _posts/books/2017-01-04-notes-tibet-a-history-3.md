@@ -46,12 +46,16 @@ description:
 * 临屯郡：Lintun，임둔군，治所东暆（yi）县（동이현），今韩国江原道江陵市（另说朝鲜江原道元山市，折衷说法是后者为编入乐浪郡后的郡治）。江原道在朝韩边境，经常分不清楚……
 
   *(下三图：四郡八道。然而下面的四郡的中韩文地图看着……）*
+  
 
-  <center>![汉四郡地理位置(中文）)](https://upload.wikimedia.org/wikipedia/commons/c/cd/漢四郡.jpg)</center>
+![汉四郡地理位置(中文）)](https://upload.wikimedia.org/wikipedia/commons/c/cd/漢四郡.jpg)
 
-<center>![汉四郡地理位置（韩文）](https://upload.wikimedia.org/wikipedia/commons/9/92/Hangunhyeon.PNG)</center>
 
-<center>![八道](https://upload.wikimedia.org/wikipedia/commons/7/7c/Korea-8provinces.svg)</center>
+![汉四郡地理位置（韩文）](https://upload.wikimedia.org/wikipedia/commons/9/92/Hangunhyeon.PNG)
+
+
+![八道](https://upload.wikimedia.org/wikipedia/commons/7/7c/Korea-8provinces.svg)
+
 
 [3] Kashgar, “玉”。太宗后AD 675，唐设立疏勒都督府，隶属安西都护府，安西四镇（Four Garrisons of Anxi）其余三镇为龟兹（Kucha，库车）、毗沙（Khotan, or Hotan，于阗，今和田）和焉耆（Karasahr，Yen-Ch'i）。
 
