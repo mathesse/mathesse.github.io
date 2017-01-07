@@ -168,7 +168,7 @@ description:
 
 ![](/public/img/posts/20170106/2017-01-06-tang-hostels.png)
 
-Ref: [南北朝的客館及其地理位置 (The Guest Houses and Their Locations during the Period of Northern and Southern Dynasties. 中国历史地理论丛. 2009年1月.)](http://www.academia.edu/1181082/南北朝的客館及其地理位置, "http://www.academia.edu/1181082/南北朝的客館及其地理位置")有各代客馆的图示。
+Ref: [南北朝的客館及其地理位置 (The Guest Houses and Their Locations during the Period of Northern and Southern Dynasties. 中国历史地理论丛. 2009年1月.)](http://www.academia.edu/1181082/南北朝的客館及其地理位置) 有各代客馆的图示。
 
 
 
