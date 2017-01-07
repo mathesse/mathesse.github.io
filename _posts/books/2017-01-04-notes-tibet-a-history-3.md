@@ -92,10 +92,6 @@ description:
   *(下三图：四郡八道。然而下面的四郡的中韩文地图看着……）*
   
 
-<<<<<<< HEAD
-
-=======
->>>>>>> origin/master
 ![汉四郡地理位置(中文）)](https://upload.wikimedia.org/wikipedia/commons/c/cd/漢四郡.jpg)
 
 ![汉四郡地理位置（韩文）](https://upload.wikimedia.org/wikipedia/commons/9/92/Hangunhyeon.PNG)
@@ -251,7 +247,6 @@ Ref: [南北朝的客館及其地理位置 (The Guest Houses and Their Locations
 [17] 布达拉宫法王洞。
 
 
-[18] 贤者喜宴（མཁས་པའི་དགའ་སྟོན，mkas pa'i dga' ston，又洛扎佛教史）有对松赞干布五位配偶的记载。
-
+[18] [贤者喜宴](/public/files/20170106/贤者喜宴-巴卧-祖拉陈哇.pdf)（མཁས་པའི་དགའ་སྟོན，mkas pa'i dga' ston，又洛扎佛教史）有对松赞干布配偶的记载（编译三）。
 
 【本节完】
