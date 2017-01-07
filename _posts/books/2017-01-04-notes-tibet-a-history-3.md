@@ -92,7 +92,10 @@ description:
   *(下三图：四郡八道。然而下面的四郡的中韩文地图看着……）*
   
 
+<<<<<<< HEAD
 
+=======
+>>>>>>> origin/master
 ![汉四郡地理位置(中文）)](https://upload.wikimedia.org/wikipedia/commons/c/cd/漢四郡.jpg)
 
 ![汉四郡地理位置（韩文）](https://upload.wikimedia.org/wikipedia/commons/9/92/Hangunhyeon.PNG)
@@ -149,7 +152,7 @@ description:
 
 [7] 直译似为**四方馆**，然而（一）四方馆不是四个城门各一个的建筑；（二）个人认为四方馆是管理机构，“通事舍人受事之司”。住宿的地点应该是两个客馆。
 
-[唐兩京城坊考](http://ctext.org/library.pl?if=gb&res=2355,"中國哲學書電子化計劃")卷一西京皇城：
+[唐兩京城坊考](http://ctext.org/library.pl?if=gb&res=2355,"中國哲學書電子化計劃")卷一西京：
 
 四方館：
 
@@ -169,11 +172,11 @@ description:
 
 ![](/public/img/posts/20170106/2017-01-06-tang-hostels.png)
 
-Ref: [南北朝的客館及其地理位置 (The Guest Houses and Their Locations during the Period of Northern and Southern Dynasties. 中国历史地理论丛. 2009年1月.)](http://www.academia.edu/1181082/南北朝的客館及其地理位置,"http://www.academia.edu/1181082/南北朝的客館及其地理位置")有各代客馆的图示。
+Ref: [南北朝的客館及其地理位置 (The Guest Houses and Their Locations during the Period of Northern and Southern Dynasties. 中国历史地理论丛. 2009年1月.)](http://www.academia.edu/1181082/南北朝的客館及其地理位置) 有各代客馆的图示。
 
 
 
-[8] 宋摹本阎立本步辇图。现藏背景故宫博物院。
+[8] 宋摹本阎立本步辇图。现藏北京故宫博物院。
 
 
 
@@ -251,3 +254,4 @@ Ref: [南北朝的客館及其地理位置 (The Guest Houses and Their Locations
 [18] 贤者喜宴（མཁས་པའི་དགའ་སྟོན，mkas pa'i dga' ston，又洛扎佛教史）有对松赞干布五位配偶的记载。
 
 
+【本节完】
