@@ -116,9 +116,3 @@ wordcloud.to_file(path.join(d, pic_name))
 
 plt.close()
 
-
-
-
-
-
-
