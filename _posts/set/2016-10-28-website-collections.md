@@ -8,6 +8,14 @@ description:
 
 ---
 
+1. [How To Ask Questions The Smart Way](http://www.catb.org/~esr/faqs/smart-questions.html) by Eric S. Raymond (or [Chinese translation of 3.10](https://github.com/ryanhanwu/How-To-Ask-Questions-The-Smart-Way)).
+2. [Awesome-r](https://awesome-r.com/)
+3. [Awesome-Machine-Learning](https://github.com/josephmisiti/awesome-machine-learning)
+4. [The Elements of Data Analytic Style](https://leanpub.com/datastyle) by Jeff Leek: A  guide for people who want to analyze data.
+
+
+---
+
 1. [Font Awesome](http://fontawesome.io "http://fontawesome.io"): The Iconic Fond and CSS Toolkit 
 2. [DJCHINA](http://djchina.org/): Data Journalism, with Case Studies and Tookkit
 
