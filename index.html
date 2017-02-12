@@ -3,9 +3,9 @@ layout: page_title
 title: <i class="fa fa-home fa-lg"></i>
 titlename: blog
 ---
-<!--<br>--> 
-<center><h3><p>时间数百年旧家无非积德</p></center>
-<center><p>天下第一件好事还是读书</p></h3></center>
+<!--<br>-->
+<center><h3><p>世间数百年旧家无非积德</p></h3></center>
+<center><h3><p>天下第一件好事还是读书</p></h3></center>
 <center><h4><p>Grade das Gegentheil tun ist auch eine Nachahmung.</p></h4></center>
 <div class="row">
   <div class="col-md-12">
@@ -23,7 +23,7 @@ titlename: blog
     <div class="col-md-12">
       <div class="panel panel-primary">
         <div class="panel-heading">{{ cate }}</div>
-        {% for tag in site.tags %} 
+        {% for tag in site.tags %}
           {% if tag[0] == cate %}
             {% for post in tag[1] %}
               <a  href='{{ post.url }}' class="list-group-item pjaxlink clearfix">
@@ -37,4 +37,3 @@ titlename: blog
     </div>
   {% endfor %}
 </div>
- 
