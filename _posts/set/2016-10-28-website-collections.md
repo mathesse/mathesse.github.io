@@ -12,6 +12,7 @@ description:
 2. [Awesome-r](https://awesome-r.com/)
 3. [Awesome-Machine-Learning](https://github.com/josephmisiti/awesome-machine-learning)
 4. [The Elements of Data Analytic Style](https://leanpub.com/datastyle) by Jeff Leek: A  guide for people who want to analyze data.
+5. [Simply Statistics](http://simplystatistics.org/courses/) has a list of online open courses. This statistics blog by Rafael Irizarry, Roger Peng, and Jeff Leek also write a lot about "simple" statistics:)
 
 
 ---
