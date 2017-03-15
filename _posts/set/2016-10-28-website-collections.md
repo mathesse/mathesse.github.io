@@ -17,6 +17,13 @@ description:
 
 ---
 
+1. [WHO Global Burdenof Disease project](http://www.who.int/healthinfo/global_burden_disease/about/en/)
+2. [Global Health Observatory, WHO's gateway](http://apps.who.int/gho/data/node.home):Sustanable Development Goals (SDGs) health targets
+3. [The China Biographical Database](http://projects.iq.harvard.edu/cbdb)
+4. [China Historial GIS](http://www.fas.harvard.edu/~chgis/)
+
+---
+
 1. [Font Awesome](http://fontawesome.io "http://fontawesome.io"): The Iconic Fond and CSS Toolkit 
 2. [DJCHINA](http://djchina.org/): Data Journalism, with Case Studies and Tookkit
 
