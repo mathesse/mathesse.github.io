@@ -4,18 +4,18 @@ paginate: 10
 
 # 作者信息
 author:
-  name: Sian Song
+  name: Shan Hannah Song
   email: hessiatrix@gmail.com
   link: mathesse.github.io
-  github: http://github.com/mathesse
+  github: http://github.com/shan2song
   goodreads: https://www.goodreads.com/user/show/46001922-sian-song
   soundcloud: https://soundcloud.com/sian-hansong
   youtube: https://www.youtube.com/channel/UCAhvFH5jovo5TU1HxkDZLGg
   stackoverflow: http://stackoverflow.com/users/7372433/sian-s?tab=profile
 
 # 站点信息
-title: Sian Song
-description: My personal blog
+title: Shan Song
+description: Blog
 url: http://mathesse.github.io
 rss_url: /pages/atom.xml
 
