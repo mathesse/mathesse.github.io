@@ -6,7 +6,7 @@ paginate: 10
 author:
   name: Shan Hannah Song
   email: hessiatrix@gmail.com
-  link: mathesse.github.io
+  link: shan2song.github.io
   github: http://github.com/shan2song
   goodreads: https://www.goodreads.com/user/show/46001922-sian-song
   soundcloud: https://soundcloud.com/sian-hansong
@@ -16,7 +16,7 @@ author:
 # 站点信息
 title: Shan Song
 description: Blog
-url: http://mathesse.github.io
+url: http://shan2song.github.io
 rss_url: /pages/atom.xml
 
 # gavatar头像及Favicon
@@ -26,7 +26,7 @@ favicon: /public/img/signature_sian.png
 # google analytics 设置
 ga:
   id: UA-86324137-1
-  url: https://mathesse.github.io
+  url: https://shan2song.github.io
 
 # disqus 设置
 disqus:
