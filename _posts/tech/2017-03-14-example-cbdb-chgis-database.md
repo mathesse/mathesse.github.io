@@ -1,14 +1,14 @@
 ---
 layout: post
-title: Location Distribution of Civil's Basic Affliation and Moved-to Destinations in Song Dynasty of China (960-1279)
+title: Location Distribution of Civil's Basic Affiliation and Moved-to Destinations in Song Dynasty of China (960-1279)
 category: TECH
 tags: python sql gis
 keywords: TECH
-description: 
+description:
 
 ---
 
-# <font color="#ff5f2e"><center>Location Distribution of Civil's Basic Affliation and Moved-to Destinations in Song Dynasty of China (960-1279)</center></font>
+# <font color="#ff5f2e"><center>Location Distribution of Civil's Basic Affiliation and Moved-to Destinations in Song Dynasty of China (960-1279)</center></font>
 
 
 
@@ -18,14 +18,14 @@ description:
 
 ### Databases
 
-- [China BIographical Database (CBDB)]( http://projects.iq.harvard.edu/cbdb):a freely accessible relational database with biographical information about approximately **360,000 individuals as of April 2015**, primarily from the 7th through 19th centuries. 
+- [China Biographical Database (CBDB)]( http://projects.iq.harvard.edu/cbdb):a freely accessible relational database with biographical information about approximately **360,000 individuals as of April 2015**, primarily from the 7th through 19th centuries.
 - [China Historical GIS Database (CHGIS)]( https://www.fas.harvard.edu/~chgis/data/):was launched in January 2001 to establish a database of populated places and historical administrative units for the period of Chinese history between *221 BCE* and *1911 CE*.  
 
 ### Software
 
-- [DB Browser for SQLite](http://sqlitebrowser.org/): open source tool compatiable with SQLite, works for OS X.
-- [Quantum GIS (QGIS)](http://www.qgis.org/en/site/):Open Source Geographic Information System (GIS) licensed under the GNU 
-  General Public License. QGIS is an official project of the Open Source Geospatial Foundation (OSGeo). 
+- [DB Browser for SQLite](http://sqlitebrowser.org/): open source tool compatible with SQLite, works for OS X.
+- [Quantum GIS (QGIS)](http://www.qgis.org/en/site/):Open Source Geographic Information System (GIS) licensed under the GNU
+  General Public License. QGIS is an official project of the Open Source Geospatial Foundation (OSGeo).
 
 ### Procedure
 
@@ -37,17 +37,17 @@ description:
 
 - 1996 DEM Background Image - All of China in RASTER (12 MB) from CHGI
 
-#### 2. Use DB Browser for SQLite to View Database (cbdb_sqlite.db) and determine required information 
+#### 2. Use DB Browser for SQLite to View Database (cbdb_sqlite.db) and determine required information
 
-- Information Needed Here 
+- Information Needed Here
 
   - Civil's Birth Year and Death Year: to determine if a certain civil was born and died within duration of Song dynasty (960-1279)
   - Civil's Person ID (w/ names)
-  - Civil's Address: 
+  - Civil's Address:
     - X and Y coordinates
-    - Address type: such as basic affliation (籍贯), Moved to (遷住地), Ancestral Address (祖籍), Burial Address (葬地) and etc. 
+    - Address type: such as basic affiliation (籍贯), Moved to (遷住地), Ancestral Address (祖籍), Burial Address (葬地) and etc.
     - Here I used
-      - Type 1: Basic Affliation
+      - Type 1: Basic Affiliation
       - Type 2: Moved To
 
 - Three Related Tables
@@ -57,8 +57,8 @@ description:
   - BIOG_ADDR_DATA (Table B): **B.c_personid**, B.c_addr_type, **B.c_addr_id**
 
   - ADDR_XY (Table C): **C.c_addr_id**, C.x_coord, C.y_coord
-  
-#### 3. Write a Python Script Substracting Civil's Information in Database
+
+#### 3. Write a Python Script Subtracting Civil's Information in Database
 
 - Python Script: Sqlite3 is embedded within Python
 
@@ -112,13 +112,10 @@ c_personid,c_name,c_name_chn,c_addr_type,c_addr_id,x_coord,y_coord
 - Open New Project
 - Add Delimited Text Layer: txt
 - Drag shapefile *v4_time_prov_pgn_utf.shp* and geotiff file *v4_dem.tif* in to main window
-- Adjust Layer Stylying according to need and personal perferences: Lock and Unlock Layers
+- Adjust Layer Styling according to need and personal preferences: Lock and Unlock Layers
 - Output
-	- Zoom current window to preferred scale
-	- Project-> New Print Composer
-	- Follow this tutorial: [Making a Map: QGIS Tutorials and Tips](http://www.qgistutorials.com/en/docs/making_a_map.html)
-	
+  - Zoom current window to preferred scale
+  - Project-> New Print Composer
+  - Follow this tutorial: [Making a Map: QGIS Tutorials and Tips](http://www.qgistutorials.com/en/docs/making_a_map.html)
+
 ![](/public/img/posts/20170314/print-cbdb-song-person.png)
-
-    ​
-
