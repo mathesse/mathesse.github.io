@@ -5,9 +5,13 @@ paginate: 10
 # 作者信息
 author:
 <<<<<<< HEAD
+<<<<<<< HEAD
   name: shan2song
 =======
   name: Shan Hannah Song
+>>>>>>> origin/master
+=======
+  name: Shanshan Song
 >>>>>>> origin/master
   email: hessiatrix@gmail.com
   link: shan2song.github.io
@@ -19,10 +23,14 @@ author:
 
 # 站点信息
 <<<<<<< HEAD
+<<<<<<< HEAD
 title: shan2song
 description: My personal blog
 =======
 title: Shan Song
+=======
+title: Shanshan Song
+>>>>>>> origin/master
 description: Blog
 >>>>>>> origin/master
 url: http://shan2song.github.io
@@ -33,6 +41,7 @@ gavatar: /public/img/signature_sian.png
 favicon: /public/img/signature_sian.png
 
 # google analytics 设置
+<<<<<<< HEAD
 <<<<<<< HEAD
 # ga:
 #  id: UA-86324137-1
@@ -46,6 +55,15 @@ ga:
 # disqus 设置
 # disqus:
 #  shortname: shan2song
+=======
+#ga:
+#  id: UA-86324137-1
+#  url: https://shan2song.github.io
+
+# disqus 设置
+#disqus:
+#  shortname: mathesse
+>>>>>>> origin/master
 
 # 主题设置，自动激活某个标签
 active: BOOKS
