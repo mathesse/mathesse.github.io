@@ -4,7 +4,11 @@ paginate: 10
 
 # 作者信息
 author:
+<<<<<<< HEAD
   name: shan2song
+=======
+  name: Shan Hannah Song
+>>>>>>> origin/master
   email: hessiatrix@gmail.com
   link: shan2song.github.io
   github: http://github.com/shan2song
@@ -14,8 +18,13 @@ author:
   stackoverflow: http://stackoverflow.com/users/7372433/sian-s?tab=profile
 
 # 站点信息
+<<<<<<< HEAD
 title: shan2song
 description: My personal blog
+=======
+title: Shan Song
+description: Blog
+>>>>>>> origin/master
 url: http://shan2song.github.io
 rss_url: /pages/atom.xml
 
@@ -24,9 +33,15 @@ gavatar: /public/img/signature_sian.png
 favicon: /public/img/signature_sian.png
 
 # google analytics 设置
+<<<<<<< HEAD
 # ga:
 #  id: UA-86324137-1
 #  url: https://mathesse.github.io
+=======
+ga:
+  id: UA-86324137-1
+  url: https://shan2song.github.io
+>>>>>>> origin/master
 
 # disqus 设置
 # disqus:

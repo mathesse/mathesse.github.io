@@ -8,6 +8,7 @@ description:
 
 ---
 
+<<<<<<< HEAD
 # <font color="#ff5f2e"><center>Location Distribution of Civil's Basic Affiliation and Moved-to Destinations in Song Dynasty of China (960-1279)</center></font>
 
 
@@ -15,6 +16,9 @@ description:
 ## — A Simple Study Case Combing **China Biographical Database** with **China Historical GIS Database** Using **Python**, **DB Browser for SQLite** and **Quantum GIS**
 
 
+=======
+## A Simple Study Case Combing *China Biographical Database* with *China Historical GIS Database* Using *Python*, *DB Browser for SQLite* and *Quantum GIS*
+>>>>>>> origin/master
 
 ### Databases
 
@@ -63,7 +67,10 @@ description:
 - Python Script: Sqlite3 is embedded within Python
 
 ```
+<<<<<<< HEAD
 
+=======
+>>>>>>> origin/master
 #!/usr/bin/env python
 # encoding=utf-8
 
