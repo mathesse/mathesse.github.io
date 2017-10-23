@@ -4,7 +4,7 @@ paginate: 10
 
 # 作者信息
 author:
-  name: Shanshan Song
+  name: shan2song
   email: hessiatrix@gmail.com
   link: shan2song.github.io
   github: http://github.com/shan2song
@@ -12,10 +12,12 @@ author:
   soundcloud: https://soundcloud.com/sian-hansong
   youtube: https://www.youtube.com/channel/UCAhvFH5jovo5TU1HxkDZLGg
   stackoverflow: http://stackoverflow.com/users/7372433/sian-s?tab=profile
+  linkedin: https://www.linkedin.com/in/shanshan-song-03899878/
 
 # 站点信息
-title: Shanshan Song
-description: Blog
+
+title: shan2song
+description: My personal blog
 url: http://shan2song.github.io
 rss_url: /pages/atom.xml
 
@@ -24,13 +26,13 @@ gavatar: /public/img/signature_sian.png
 favicon: /public/img/signature_sian.png
 
 # google analytics 设置
-#ga:
+# ga:
 #  id: UA-86324137-1
-#  url: https://shan2song.github.io
+#  url: https://mathesse.github.io
 
 # disqus 设置
-#disqus:
-#  shortname: mathesse
+# disqus:
+#  shortname: shan2song
 
 # 主题设置，自动激活某个标签
 active: BOOKS
